@@ -1,3 +1,4 @@
+<img width="1512" height="982" alt="image" src="https://github.com/user-attachments/assets/c950375e-18c8-4e75-a4d1-eccaa13764b9" />
 # Module 12 - User & Calculation Routes + Integration Testing
 
 A FastAPI application with user registration and login plus full BREAD
@@ -24,10 +25,10 @@ Docker Hub.
 
 ## Docker Hub
 
-Image: https://hub.docker.com/r/YOUR_DOCKERHUB_USERNAME/module12_is601
+Image: https://hub.docker.com/r/nr598/module12_is601```
 
 ```bash
-docker pull YOUR_DOCKERHUB_USERNAME/module12_is601:latest
+docker pull nr598/module12_is601:latest
 ```
 
 ## Run the App Locally
